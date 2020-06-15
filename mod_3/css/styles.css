@@ -1,0 +1,144 @@
+/* Base Styles */
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: 'Balsamiq Sans', cursive;
+  color: #000000;
+}
+
+body {
+  background-color: #b3b3b3;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+p {
+  padding: 10px;
+  margin: 0;
+}
+
+.container {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+section {
+  border: 1px solid black;
+  background-color: #505050;
+  width: 100%;
+  height: auto;
+  font-family: 'Balsamiq Sans', cursive;
+  color: black;
+  position: relative;
+  overflow: auto;
+  color: #d4d4d4;
+}
+
+#chicken {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  background-color: #e09292;
+  color: #000000;
+}
+
+#Fish {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  background-color: #92e09e;
+  color: #000000;
+}
+
+#sushi {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  background-color: #92c0e0;
+  color: white;
+  padding: 5px;
+  color: #000000;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#Fish-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: #000000;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #000000;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
+
+.item {
+  color: white;
+  font-size: 1.2em;
+}
